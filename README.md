@@ -1,2 +1,3 @@
-# Hello-World
-My first repository in gihub
+# MakeAnApp
+My first repository in gitHub
+
