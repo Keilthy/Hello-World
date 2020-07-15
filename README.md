@@ -1,4 +1,4 @@
-GitHUb_MakeAnApp
+Xcode_MakeAnApp
 
-I've created this brance to track activity in GItHub on the MAkeAnApp project
+I've created this brance to track activity in Xcode on the MAkeAnApp project
 
