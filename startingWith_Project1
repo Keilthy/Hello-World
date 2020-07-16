@@ -1,0 +1,30 @@
+THis is the record of what I have attempted to do while following the video and written notes to Project1 on hackingwithswift.com tutorial, based on project building as a way to learn how to build an App
+
+To start I created a folder on my desktop called HackingWithSwift and the created a folder within that folder called "project 1"
+
+I then launched Xcode ( version 11.5) and did as suggested "Create a new Xcode project".
+Then... "Single View App (Application?)  -> "Next"
+Then... on the "choose options for your new project" window there are a couple of differences from the window on the version in Hackingwithswift site than that on the version I have ....namely
+
+    1: Product Name:....same
+    2:before "organization Name" in my version I have "Team" ( add account)
+    3: Organization Identifier:...same
+    4: Bundle Identifier:...same
+    5: Language:...options...1: Swift.. same
+    6: on my version this is "User Interface" while on the hackingwithswift it has "devices"
+        I have gone with storyboard on the dropdown as there is no "Universal" as suggested in the tutorial.
+    7: Use Core Data... same
+            no sub menu "Use CloudKit"... in hackingwithswift
+    8: Include Unit Tests..same
+    9: Include UI Tests...same
+                 
+                 
+ when it comes to choosing an iOS simulator the option to select iPhone XR is not available so I have choosen iPhone SE
+ 
+ Now it starts to get interesting!!!!
+ 
+ as directed.... use link...no sign of project1 folder
+ 
+                 use link to "master.zip......404 error
+                 
+ so went to GitHub direct and found the Project1 folder but not the folder called "contents"
